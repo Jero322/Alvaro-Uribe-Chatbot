@@ -4,7 +4,7 @@ import base64
 from io import BytesIO
 
 # Configure the API key
-genai.configure(api_key="AIzaSyBQmBfA--Xy0UaXB1FxwLQ2Oh3bl4holtY")
+genai.configure(api_key="AIzaSyBlwWjOEN6daKjcUWj2Nh5AVE9ACOavLag")
 
 # Initialize the Generative Model
 model = genai.GenerativeModel("gemini-1.5-flash")
